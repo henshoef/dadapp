@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+    <string name="username">שם משתמש</string>
+    <string name="password">סיסמה</string>
+    <string name="login">התחבר</string>
+    <string name="cancel">ביטול</string>
+    <string name="prices">מחירון</string>
+    <string name="mannager">ניהול</string>
+    <string name="welcome_shoef_tires">ברוכים הבאים צמיגי שואף</string>
+    <string name="details">אחד מה הפרטים לא נכונים</string>
+</resources>

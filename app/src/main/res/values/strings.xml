@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DadApp</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="prices">Prices</string>
+    <string name="mannager">Mannager</string>
+    <string name="welcome_shoef_tires">Welcome Shoef tires</string>
+    <string name="details">one of your details is incorrect</string>
+</resources>
